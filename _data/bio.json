@@ -24,16 +24,8 @@
         "network": "linkedin",
         "username": "Beejay-Ines",
         "url": "http://linkedin.com/in/beejay-ines-75575a146/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+      }
+     
       }
     ]
   },
