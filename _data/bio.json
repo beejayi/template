@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Beejay Ines",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://beejayines.github.io/images/photo.jpg",
+    "email": "beejayi@hawaii.edu",
+    "phone": "808-443-4041",
+    "website": "https://beejayines.github.io",
+    "summary": "I am a senior majoring in Computer Engineering at the University of Hawaii at Manoa. I have a passion for learning and finding solutions to complex problems. I will be graduating in Fall 2017.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "45-1040 Anoi Rd",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "beejayines",
+        "url": "http://github.com/beejayines"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Beejay-Ines",
+        "url": "http://linkedin.com/in/beejay-ines-75575a146/"
       },
       {
         "network": "twitter",
