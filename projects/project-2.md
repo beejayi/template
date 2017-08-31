@@ -14,3 +14,8 @@ summary: Help research how a drone navigates to reach the ultimate goal of disru
 
 <img class="ui medium right floated rounded image" src="../">
 
+VIP stands for vertically integrated projects, which are designed to prepare you for future long-term engineering projects that you will encounter in your career as an engineer. The project cosists of 10-20 undergradutes working on different parts assigned by the advisor. The drone project was split up into sections by the specific parts on the drone that the students found the most interesting. For example one part was basically just building a dorne from scratch, another was working on 3D imaging and how that could be used by the drone. 
+
+The section I worked on was hacking the drone and how we could tap into its software to disrupt its flight. The ultimate goal of the project was to send false data, through some sort of signal, to the drone and completely disable it. This would be used during some sort of terrorist attack using a drone or keeping drones away from a certain place. This section was completely new, so we had to start from the bottum. My job was to research how a drone flys and navigates. I also looked through a souce code of a specific drone to see how it was coded to fly. For this project, I mostly did reseach.
+
+This project has taught me the steps to starting a large project and has given me the mindset that with smalls steps, you can reach that umseemingly impossible goal. 
