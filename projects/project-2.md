@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/drone.png
 title: VIP Dorne Project
 permalink:
 date: 2017
