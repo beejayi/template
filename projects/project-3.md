@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/racquetball.png
 title: Raquetball game
 permalink: 
 date: 2015
