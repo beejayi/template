@@ -1,60 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/
+title: Raquetball game
+permalink: 
+date: 2015
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
----
+  - Digital design
+  - VHDL
+  - LogicWorks
+summary: Built a racquetball game for EE 260 (Introduction to Digital Design.) 
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The racquetball game consisted of two push buttons and six LED lights in a row. The six LEDs depicted the position of the ball. When the ball is served the first LED would light up, then the second, third and so on. When the sixth LED lit up, the ball would "bounce back" and start traveling through the LEDs again towards the players. The player that did not serve the ball, has to hit his/her button when the ball reaches the first LED. If the player misses, the game is over, but if the button is pressed at the right time the ball would go towards the sixth LED again. The project was to build the game with logic gates and the hardware description language VHDL. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I worked on the project alone, although it was designed to be a group project. I started the project by building the smaller parts of the game. There were three main components to the game. The racquet module, controller and court display. The racquect module was the buttons, and the main part was designing a circuit that would send a signal out when the player presses their button. This seems fairly easy, but it had to be designed so the players can't just hold the button down and continuosly hit the ball back. When the player presses the button, it should send a signal that only lasts for a second or so. The second component was the controller which is the brains of the game. It controlled the LEDs and decided if the the player hit the button at the right time. Instead of builing it using logic gates, I used VHDL instead. VHDL was an easier route because its basically programming. When coding in VHDL, you're telling the hardware what to do through software. When the code was done I downloaded it into an EPROM. The court display was the six LEDs and making sure they light up correctly. Before I built the circuit I built the entire circuit on logicworks. A software that you can use to see how everything in your circuit connects. I built the game successfully. 
 
-<hr>
+This project taught me how to design, build and test. It has been one of my favorite class projects so far. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+For more information about the project go to the link: http://www-ee.eng.hawaii.edu/~tep/EE260/Labsnew/Lab8/lab8.html
