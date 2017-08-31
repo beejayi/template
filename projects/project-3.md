@@ -10,7 +10,7 @@ labels:
   - VHDL
   - LogicWorks
 summary: Built a racquetball game for EE 260 (Introduction to Digital Design.) 
-
+---
 
 The racquetball game consisted of two push buttons and six LED lights in a row. The six LEDs depicted the position of the ball. When the ball is served the first LED would light up, then the second, third and so on. When the sixth LED lit up, the ball would "bounce back" and start traveling through the LEDs again towards the players. The player that did not serve the ball, has to hit his/her button when the ball reaches the first LED. If the player misses, the game is over, but if the button is pressed at the right time the ball would go towards the sixth LED again. The project was to build the game with logic gates and the hardware description language VHDL. 
 
