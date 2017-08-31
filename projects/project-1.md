@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/File_000.jpeg
 title: Micromouse
 permalink: projects/micromouse
 date: 2015
