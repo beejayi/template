@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium center rectangular floated image" src="../images/coding_world.jpg">
+<img class="ui medium center square floated image" src="../images/coding_world.jpg">
 
 Why code? That's the question that I've always been asked when I say my major is computer engineering. My answer has always been "because I like it". I've never really put in the thought. I got into programming by chance. Before I switched into computer engineering, I was in civil engineering. This was because my family are made up of mostly architects and CEEs. I remember it like yesterday. I was scrolling through the list of classes that satisfied my general education requirements and then I saw it. ICS 150, introduction to computer science 1. I've never done any sort of programming before, but I've been always interested in how a computer works, so I decided to take a chance and take it. The first few classes were horrible. I just sat there completely lost and understood nothing. Then we started programming. This just made things worst and just frustrated me more. The computer was just not listening and did not understand me as much as I didn't understand it. I told it instructions, but it would just give me back errors. This was a disaster. 
 
