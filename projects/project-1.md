@@ -19,5 +19,5 @@ I felt I was proficient in both software and hardware, so I decided to work on b
 
 This project has given me a taste of how it's like to work on an engineering project in the aspect of having an idea and making it into reality. 
 
-To learn more about the history of micromouse in UH click on the link: http://www-ee.eng.hawaii.edu/~mmouse/history.html
+To learn more about the history of micromouse in UH click on the [link](http://www-ee.eng.hawaii.edu/~mmouse/history.html).
 
