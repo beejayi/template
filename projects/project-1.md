@@ -13,7 +13,7 @@ labels:
 summary: My team built and designed an autonomous robot that could freely navigate and find the center of a maze
 ---
 
-<img class="ui medium right floated rounded image" src="/images/File_000 (3).jpeg">
+<img class="ui large right floated rounded image" src="/images/File_000 (3).jpeg">
 
 The micromouse project is to design an autonomous robot that can freely navigate through a random 16 by 16 grid cell maze. In that maze there is a 2 by 2 block which is the center. The micromouse needs to have an algorithm that helps it map the maze, then find the shortest path to the center. This project was strictly designed to feel like an engineering project. This meant that the teams were in full control of the project and how far they went depended on how much time they put into it. There were two parts, software and hardware. The hardware involved designing the body and circuit of the robot. Software was calobrating the mouse and creating the algorithm to find the center. 
 
