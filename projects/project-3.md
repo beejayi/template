@@ -20,4 +20,4 @@ I worked on the project alone, although it was designed to be a group project. I
 
 This project taught me how to design, build and test. It has been one of my favorite class projects so far. 
 
-For more information about the project go to the link: http://www-ee.eng.hawaii.edu/~tep/EE260/Labsnew/Lab8/lab8.html
+For more information about the project go to the [link](http://www-ee.eng.hawaii.edu/~tep/EE260/Labsnew/Lab8/lab8.html).
