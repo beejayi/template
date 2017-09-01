@@ -19,4 +19,4 @@ The section I worked on was hacking the drone and how we could tap into its soft
 
 This project has taught me the steps to starting a large project and has given me the mindset that with smalls steps, you can reach that umseemingly impossible goal. 
 
-For more information about VIP projects in UH, go to this [website](https://sites.google.com/a/hawaii.edu/uh-vip/)
+For more information about VIP projects in UH, go to this [website](https://sites.google.com/a/hawaii.edu/uh-vip/).
