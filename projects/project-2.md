@@ -16,7 +16,7 @@ VIP stands for vertically integrated projects, which are designed to prepare you
 
 The section I worked on was hacking the drone and how we could tap into its software to disrupt its flight. The ultimate goal of the project was to send false data, through some sort of signal, to the drone and completely disable it. This would be used during some sort of terrorist attack using a drone or keeping drones away from restricted areas. This section was completely new, so we had to start from the bottom. My job was to research how a drone flys and navigates. I also looked through intertial navogation code of a specific drone to see how it was coded to fly. For this project, I mostly did reseach.
 
-<img class="ui medium center square floated image" src="../images/dronepic.jpg">
+<img class="ui medium center square floated image" src="../images/dronepic.png">
 
 This project has taught me the steps to starting a large project and has given me the mindset that with smalls steps, you can reach that umseemingly impossible goal. 
 
