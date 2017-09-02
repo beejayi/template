@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Developing a mindset
+title: Getting my feet wet with JavaScript
 date: 2017-08-31
 labels:
   - Software Engineering
   - Learning
+  -JavaSricpt
 ---
 
 I had no prior experience with JavaScript, however I did work with other languages like C and C++. Having programming experience played a great role in learning the language. I feel once you learn how to code, learning new languages just becomes learning new syntax. JavaScript was a whole new feel for me, because I'm accustomed to just using C and C++. Also it's my very first scripting language. After completing the tutorials on FreeCodeCamp, I can't wait to learn more about this interesting and powerful language.
