@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/drone.png
-title: VIP Dorne Project
+title: VIP Drone Project
 permalink:
 date: 2017
 labels:
