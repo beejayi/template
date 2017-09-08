@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui medium right floated rounded image" src="../images/questions.jpg">
+<img class="ui small right floated rounded image" src="../images/questions.jpg">
 
 As you go through life, you learn to ask questions, but most of the time, you'll end up with more questions rather than the answer. Then there's the case where there are an enormous amount of answers, but none fixes your problem specifically. This is the problem that software engineers will always run into as there are infinite possibilities to implementing or solving a problem. When asking smart and insightful questions, you will get a technical and concise answer. Intelligent software engineers are always on the lookout for those good, thought-provoking questions and you get their attention by asking questions the correct way.
 
