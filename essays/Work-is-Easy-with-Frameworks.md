@@ -9,7 +9,7 @@ labels:
   - UI Semantic
 ---
 
-<img class="ui medium right floated rounded image" src="https://semantic-ui.com/images/logo.png">
+<img class="ui small right floated rounded image" src="https://semantic-ui.com/images/logo.png">
 
 UI Frameworks are as hard to learn as they are complicated, but taking the time to learn them will definitely be worth it in the long run. Using just raw HTML and CSS will not be enough to create that clean, asthetically pleasing webpage that you are looking for. UI Frameworks gives you a set of new powerful tools that will assist you in making your vision come to life. Just using HTML and CSS to build a webpage is like using a nail and hammer to build a house. It's possible, but it will take a tremendous amount of work. Learning UI Frameworks will be like getting a new set of power tools and machines to help build the house. Now you can let your imagination can go free. 
 
