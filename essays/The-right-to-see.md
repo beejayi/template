@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Struck by a Meteor
+title: The right to see
 date: 2017-11-30
 labels:
   - Software Engineering
