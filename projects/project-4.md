@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UHStudyNet.PNG
+image: images/uhstudynet.PNG
 title: UHStudyNet web application
 permalink: projects/uhstudynet
 date: 2017
