@@ -51,6 +51,11 @@
       ]
     },
     {
+      "name": "Firmware",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Software development",
       "keywords": [
       ]
@@ -66,6 +71,8 @@
         "Python",
         "Javascript",
         "Assembly",
+        "VHDL",
+        "Verilog",
         "C#"
       ]
     },
