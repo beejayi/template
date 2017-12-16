@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/UHStudyNet.PNG
 title: UHStudyNet web application
-permalink: projects/UHStudyNet
+permalink: projects/uhstudynet
 date: 2017
 labels:
   - JavaScript
