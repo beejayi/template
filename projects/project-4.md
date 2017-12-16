@@ -11,7 +11,7 @@ labels:
   - MongoDB
   - HTML
   - CSS
-summary: A web application that provides UH student an easy way to find the perfect study buddy
+summary: A web application that provides UH students an easy way to find the perfect study buddy
 ---
 
 <img class="ui large right floated rounded image" src="/images/LandingFinal.PNG">
